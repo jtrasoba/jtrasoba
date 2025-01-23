@@ -2,7 +2,8 @@
 - 👀 I’m interested in: Bioelectronics and Nanotechnology
 - 🌱 I’m currently learning about Neural Cellular Automata.
 - 💞️ I’m looking to collaborate on Science
-- 📫 How to reach me: jtasoba@ucm.es / https://jtrasoba.github.io/chibs/
+- ⚡ Information on the web: https://jtrasoba.github.io/chibs/
+- 📫 How to reach me: jtasoba@ucm.es
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
